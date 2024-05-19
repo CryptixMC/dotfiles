@@ -1,5 +1,5 @@
 # dotfiles by cryptix
-## intallation
+## installation
 ### yay
 ```
 git clone https://aur.archlinux.org/yay-bin
