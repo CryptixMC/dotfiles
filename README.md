@@ -12,7 +12,7 @@ makepkg -si
 ```
 ### Required Packages
 ```
-yay -S chezmoi hyprland hyprpaper neovim waybar
+yay -S chezmoi hyprland hyprpaper neovim waybar kitty tmux wofi
 ```
 ## setup
 ```
